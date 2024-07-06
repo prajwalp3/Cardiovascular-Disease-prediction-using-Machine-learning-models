@@ -1,0 +1,1 @@
+Our project utilizes machine learning models to predict cardiovascular diseases (CVDs) by analyzing diverse datasets and exploring 14  different algorithms. The aim is to enable early detection, personalized interventions, and improved healthcare outcomes.
