@@ -28,7 +28,7 @@ Model Evaluation: The models are evaluated based on accuracy, precision, recall,
 -  Results: The performance of each model is compared, and the Random Forest model with GridSearchCV is found to be the most accurate with an accuracy of 99.7%. The performance metrics for all models are visualized in the graphs below.
 
 
-Dependencies
+## Dependencies
 - Python 3.8+
 - Pandas
 - NumPy
